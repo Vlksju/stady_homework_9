@@ -1,0 +1,15 @@
+C:\Study\C#\homework\home_work_8\task_64\bin\Debug\net6.0\task_64.exe
+C:\Study\C#\homework\home_work_8\task_64\bin\Debug\net6.0\task_64.deps.json
+C:\Study\C#\homework\home_work_8\task_64\bin\Debug\net6.0\task_64.runtimeconfig.json
+C:\Study\C#\homework\home_work_8\task_64\bin\Debug\net6.0\task_64.dll
+C:\Study\C#\homework\home_work_8\task_64\bin\Debug\net6.0\task_64.pdb
+C:\Study\C#\homework\home_work_8\task_64\obj\Debug\net6.0\task_64.csproj.AssemblyReference.cache
+C:\Study\C#\homework\home_work_8\task_64\obj\Debug\net6.0\task_64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\C#\homework\home_work_8\task_64\obj\Debug\net6.0\task_64.AssemblyInfoInputs.cache
+C:\Study\C#\homework\home_work_8\task_64\obj\Debug\net6.0\task_64.AssemblyInfo.cs
+C:\Study\C#\homework\home_work_8\task_64\obj\Debug\net6.0\task_64.csproj.CoreCompileInputs.cache
+C:\Study\C#\homework\home_work_8\task_64\obj\Debug\net6.0\task_64.dll
+C:\Study\C#\homework\home_work_8\task_64\obj\Debug\net6.0\refint\task_64.dll
+C:\Study\C#\homework\home_work_8\task_64\obj\Debug\net6.0\task_64.pdb
+C:\Study\C#\homework\home_work_8\task_64\obj\Debug\net6.0\task_64.genruntimeconfig.cache
+C:\Study\C#\homework\home_work_8\task_64\obj\Debug\net6.0\ref\task_64.dll
